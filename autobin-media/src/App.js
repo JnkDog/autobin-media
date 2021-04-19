@@ -200,7 +200,7 @@ function App() {
         </div>
         <div className="col-sm-4">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src="team/2.jpg" alt=""/>
+            <img className="mx-auto rounded-circle" src="team/zhou.jpg" alt=""/>
             <h4>Yuyang Zhou</h4>
             <p className="text-muted">Hardware Design</p>
             <ul className="list-inline social-buttons">
@@ -214,7 +214,7 @@ function App() {
         </div>
         <div className="col-sm-4">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src="team/3.jpg" alt=""/>
+            <img className="mx-auto rounded-circle" src="team/wang.jpg" alt=""/>
             <h4>Pengchong Wang</h4>
             <p className="text-muted">Media Design</p>
             <ul className="list-inline social-buttons">
